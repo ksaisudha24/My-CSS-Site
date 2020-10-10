@@ -1,0 +1,124 @@
+body {
+  margin: 0;
+  text-align: center;
+font-family: 'Merriweather', serif;
+color: #40514E;
+}
+
+hr {
+  border: dotted #EAF6F6 10px;
+  border-bottom: none;
+  width: 5%;
+  margin-top: 100px;
+  margin-bottom: 100px;
+
+}
+
+h1 {
+  font-size: 6rem;
+  color: #66BFBF;
+  margin: 0 auto;
+  padding-bottom: 16px;
+  font-family: 'Sacramento', cursive;
+  /*width: 300px;*/
+}
+
+h2 {
+  color: #66BFBF;
+  font-family: 'Montserrat', sans-serif;
+}
+
+h3 {
+  color: #66BFBF;
+  font-family: 'Montserrat', sans-serif;
+}
+
+p {
+  margin: 0 auto;
+  font-weight: normal;
+}
+
+
+
+.top-container {
+  background-color: #EAF6F6;
+  position: relative;
+  padding-top: 140px;
+
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+  width: 300px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+  width: 200px;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  line-height: 4;
+}
+
+.footer-link {
+  margin: 50px 50px 50px 50px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  text-decoration: none;
+
+}
+
+a:hover {
+  color: #EAF6F6;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto auto auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.skill1 {
+  float: left;
+  width: 25%;
+  margin-right: 15px;
+  margin-bottom: 100px;
+
+}
+
+
+.skill2 {
+  float: right;
+  width: 25%;
+  margin-left: 15px;
+}
+
+.mypic {
+  width: 30%;
+}
+.contact-me {
+  margin-bottom: 50px;
+  line-height: 2;
+}
+
+.contact-msg {
+  width: 40%;
+  margin: 50px auto 50px;
+}
+
+.btn {
+  text-decoration: none;
+}
+
+.btn:hover {
+  color: #2BC4AD;
+}
